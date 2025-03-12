@@ -8,7 +8,7 @@ This is a simple **React application** that prevents your screen from going to s
 ✅ **Clear Instructions** on how to use it.  
 
 
-🔗 **Live**: [[https://kishandhaval.github.io/kishan-portfolio/](https://kishandhaval.github.io/noSleep/)
+🔗 **Live**: [https://kishandhaval.github.io/kishan-portfolio/](https://kishandhaval.github.io/noSleep/)
 
 ## 📸 Preview
 
