@@ -3,7 +3,9 @@ import NoSleepComponent from './NoSleepComponent'
 
 const App = () => {
   return (
-    <NoSleepComponent/>
+    <>
+      <NoSleepComponent/>
+    </>
   )
 }
 
