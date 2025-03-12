@@ -9,4 +9,4 @@ This is a simple **React application** that prevents your screen from going to s
 
 ## 📸 Preview
 
-![No Sleep Mode Screenshot](![Image](https://github.com/user-attachments/assets/8c13632e-ec0c-4e92-a873-d367defaf26d))  
+![Image](https://github.com/user-attachments/assets/8c13632e-ec0c-4e92-a873-d367defaf26d)
